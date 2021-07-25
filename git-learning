@@ -1,4 +1,5 @@
-This is my git hub testing file
+This is my first file
+
 
 Be the change and check git status
 
@@ -17,3 +18,9 @@ git log (last 10 commit log shown)
 git log --author="Name or mail"
 
 git clone -b main
+
+git commit -am "commit message"
+
+git pull
+
+git push
