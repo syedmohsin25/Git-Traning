@@ -1,0 +1,19 @@
+This is my git hub testing file
+
+Be the change and check git status
+
+git --version
+git init
+git status
+git add filename or .
+git commit -m "Write Comments"
+git diff
+
+touch filename.extension
+
+vi filename.extension
+
+git log (last 10 commit log shown)
+git log --author="Name or mail"
+
+git clone -b main
